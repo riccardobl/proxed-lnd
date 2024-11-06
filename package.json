@@ -1,0 +1,17 @@
+{
+  "name": "proxied-lnd-service",
+  "version": "10.22.1",
+  "engines": {
+    "node": ">=18"
+  },
+
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "ln-service": "^57.22.0"
+  }
+}
